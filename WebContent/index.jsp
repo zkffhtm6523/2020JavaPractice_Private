@@ -3,8 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
-<title>Insert title here</title>
+<meta charset="UTF-8">
+<title>JSP Practice</title>
 </head>
 <body>
 	<script> location.href = "main.jsp"</script>
