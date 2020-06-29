@@ -15,14 +15,14 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		long A = sc.nextLong();
-		long B = sc.nextLong();
-		long C = sc.nextLong();
+		short A = sc.nextShort();
+		short B = sc.nextShort();
+		short C = sc.nextShort();
 		sc.close();
-		long cnt = 1;
+		short cnt = 1;
 		while (true) {
-			long tCost = A + (B * cnt);
-			long tIncome = C * cnt;
+			short tCost = (short) (A + (B * cnt));
+			short tIncome = (short) (C * cnt);
 			if (tCost < tIncome) {
 				System.out.println(cnt);
 				break;
