@@ -14,6 +14,7 @@ public class Baseball {
 	}
 	
 	private void setRandom() {
-		
+		int r = (int)((Math.random()+9)+1);
+		System.out.println(r);
 	}
 }
