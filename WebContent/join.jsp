@@ -4,18 +4,7 @@
 <html>
 	<head>
 	<meta charset="UTF-8">
-	<style>
-		ul li {
-			list-style-type: none; float: left; margin-left: 20px;margin-top: 15px;
-		}
-		a {text-decoration: none; color: black;}
-		.loginBlock{float:right; margin-top: 15px; margin-right: 25px;}
-		.loginBlock1{margin-right: 15px;}
-		.bodyContents{margin-top: 10px; text-align: center; }
-		
-		label{float:left; margin-left: 10px; width: 200px;}
-		input{float:left; margin-left: 10px;}
-	</style>
+	<link rel="stylesheet" type="text/css" href="">
 	<title>JSP Practice</title>
 	</head>
 	<body>
@@ -69,5 +58,8 @@
 				</div>
 			</form>
 		</div>
+		<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+		<script src="js/bootstrap.js"></script>
 	</body>
+	
 </html>

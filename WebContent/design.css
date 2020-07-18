@@ -1,0 +1,8 @@
+@charset "UTF-8";
+ul li {
+	list-style-type: none; float: left; margin-left: 20px;margin-top: 15px;
+}
+a {text-decoration: none; color: black;}
+.loginBlock{float:right; margin-top: 15px; margin-right: 25px;}
+.loginBlock1{margin-right: 15px;}
+.bodyContents{margin-top: 10px; text-align: center;}

@@ -3,15 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" type="text/css" href="">
 <meta charset="UTF-8">
-<style>
-ul li {
-	list-style-type: none; float: left; margin-left: 20px;margin-top: 15px;
-}
-a {text-decoration: none; color: black;}
-.loginBlock{float:right; margin-top: 15px; margin-right: 25px;}
-.loginBlock1{margin-right: 15px;}
-</style>
 <title>JSP Practice</title>
 </head>
 <body>
@@ -37,5 +30,7 @@ a {text-decoration: none; color: black;}
 	<div class="bodyContents">
 		<h1>개인 연습</h1>
 	</div>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script src="js/bootstrap.js"></script>
 </body>
 </html>
