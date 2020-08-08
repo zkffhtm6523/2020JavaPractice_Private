@@ -100,6 +100,41 @@ public class DBTest {
 //		Class.forName("oracle.jdbc.driver.OracleDriver");
 //		return con;
 //	}
+//	public static Connection getCon() throws Exception {
+//		Connection con = DriverManager.getConnection(url, user, password);
+//		Class.forName("oracle.jdbc.driver.OracleDriver");
+//		return con;
+//	}
+//	public static Connection getCon() throws Exception {
+//		Connection con = DriverManager.getConnection(url, user, password);
+//		Class.forName("oracle.jdbc.driver.OracleDriver");
+//		return con;
+//	}
+//	public static Connection getCon() throws Exception {
+//		Connection con = DriverManager.getConnection(url, user, password);
+//		Class.forName("oracle.jdbc.driver.OracleDriver");
+//		return con;
+//	}
+//	public static Connection getCon() throws Exception {
+//		Connection con = DriverManager.getConnection(url, user, password);
+//		Class.forName("oracle.jdbc.driver.OracleDriver");
+//		return con;
+//	}
+//	public static Connection getCon() throws Exception {
+//		Connection con = DriverManager.getConnection(url, user, password);
+//		Class.forName("oracle.jdbc.driver.OracleDriver");
+//		return con;
+//	}
+//	public static Connection getCon() throws Exception {
+//		Connection con = DriverManager.getConnection(url, user, password);
+//		Class.forName("oracle.jdbc.driver.OracleDriver");
+//		return con;
+//	}
+//	public static Connection getCon() throws Exception {
+//		Connection con = DriverManager.getConnection(url, user, password);
+//		Class.forName("oracle.jdbc.driver.OracleDriver");
+//		return con;
+//	}
 	private static final String url = "jdbc:oracle:thin:@localhost:1521:xe";
 	private static final String user = "root";
 	private static final String password = "root";
